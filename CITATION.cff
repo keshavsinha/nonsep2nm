@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "nonsep2nm: Monte Carlo timing framework for functional and statistical non-separability of P, V and T"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/keshavsinha/nonsep2nm"
+authors:
+  - family-names: Choudhury
+    given-names: Sushabhan
+    affiliation: "UPES, Dehradun, India"
+  - family-names: Sinha
+    given-names: Keshav
+    affiliation: "UPES, Dehradun, India"
+    orcid: "https://orcid.org/0000-0003-1053-3911"
+  - family-names: Kumar
+    given-names: Adesh
+    affiliation: "UPES, Dehradun, India"
+keywords:
+  - statistical static timing analysis
+  - process variation
+  - IR drop
+  - temperature inversion
+  - EUV stochastics
+  - backside power delivery

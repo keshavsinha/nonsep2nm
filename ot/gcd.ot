@@ -1,0 +1,7 @@
+read_celllib ../lib/SIMPLE_TT.lib
+read_celllib ../lib/INVBUF_TT.lib
+read_celllib ../lib/SEQ_TT.lib
+read_verilog gcd.v
+read_timing gcd.timing
+report_wns
+report_timing -num_paths 400

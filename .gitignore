@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+cache2/
+lib/*
+*.pkl
+*.npy
+spice/asap7_*.mod
+spice/asap7_pdk_r1p7/
+*.osdi
+syn/*.ys
+syn/*.log
+ot/*.json
+.ipynb_checkpoints/
+.DS_Store
+!lib/README.md
